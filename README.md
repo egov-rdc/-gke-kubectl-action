@@ -1,1 +1,1 @@
-# -gke-kubectl-action
+# gke-kubectl-action
